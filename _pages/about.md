@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "I'll graduate in Junary 2021. Now, I'm finding a PHD position on NLP and Data Mining fields."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
