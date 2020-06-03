@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I'll graduate in Junary 2021. Now, I'm finding a PHD position on NLP and Data Mining fields."
+title: "I'll graduate in Junary 2021. Now, I'm looking for a PHD position in NLP or Data Mining fields."
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,22 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student in School of Computer Science and Engineering in Beihang University, advised by [Prof. Jingyuan Wang](https://https://www.bigscity.com/). I received Bachelor of Engineering from School of Computer Science and Engineering in Beihang University in 2018.07, majoring Computer Science and Engineering. I am also advised by [Prof. Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=en) on Recommendation System and Spatial Temporal Data Mining. I was an intern at Search and NLP Group of [Bytedance](https://www.bytedance.com/en/) working for Chinses Word Segmention during 2019 winter. I'm now a research intern at MSRA(Microsoft Research Asia) working on cross lingual pretraining.(Mentor: [Nan Duan](https://www.microsoft.com/en-us/research/people/nanduan/)) During the internship, I also work closely with Bing QA Team@STCA(Software Technology Center Asia of Microsoft) led by [Ming Gong](https://www.linkedin.com/in/ming-gong-8483449a/). 
-
-A data-driven personal website
+Biography
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am a master student of School of Computer Science and Engineering at Beihang University, advised by [Prof. Jingyuan Wang](https://https://www.bigscity.com/). I received Bachelor of Engineering from School of Computer Science and Engineering in Beihang University in 2018.07, majoring Computer Science and Engineering. I am also advised by [Prof. Wayne Xin Zhao](https://scholar.google.com/citations?user=JNhNacoAAAAJ&hl=en) on Recommendation System and Spatial Temporal Data Mining. I was an intern at Search and NLP Group of [Bytedance](https://www.bytedance.com/en/) working for Chinses Word Segmention during 2019 winter. I'm now a research intern at MSRA(Microsoft Research Asia) working on cross lingual pretraining.(Mentor: [Nan Duan](https://www.microsoft.com/en-us/research/people/nanduan/) and [Yaobo Liang](https://www.microsoft.com/en-us/research/people/yalia/)) During the internship, I also work closely with Bing QA Team@STCA(Software Technology Center Asia of Microsoft) led by [Ming Gong](https://www.linkedin.com/in/ming-gong-8483449a/). 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
+Research(Sorted by Time)
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Key Words: Deep Learning, Recommendation, Natural Language Processing, Spatial Temperal Data Mining, Graph Neural Network.
+
+Ning Wu, Xin Zhao, Jingyuan Wang and Dayan Pan. Learning Effective Road Network Representation with Hierarchical Graph Neural Networks. KDD 2020.(accepted as poster in research track)
+
+Yaobo Liang, Nan Duan, Yeyun Gong, Ning Wu, Fenfei Guo, Weizhen Qi, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Xiaodong Fan, Bruce Zhang, Rahul Agrawal, Edward Cui, Sining Wei, Taroon Bharti, Ying Qiao, Jiun-Hung Chen, Winnie Wu, Shuguang Liu, Fan Yang, Rangan Majumder, Ming Zho. 2020. XGLUE: A New Benchmark Dataset for Cross-lingual Pre-training, Understanding and Generation. https://arxiv.org/pdf/2004.01401.pdf
+
+Ning Wu, Jingyuan Wang, Wayne Xin Zhao, and Yang Jin. 2019. Learning
+to Effectively Estimate the Travel Time for Fastest Route Recommendation. In The 28th ACM International Conference on Information and Knowledge Management (CIKM ’19), November 3–7, 2019, Beijing, China. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3357384.3357907
+
+Jingyuan Wang*, Ning Wu*, Wayne Xin Zhao, and Fanzhang Peng, Xin
+Lin. 2019. Empowering A∗ Search Algorithms with Neural Networks for
+Personalized Route Recommendation. In The 25th ACM SIGKDD Conference
+on Knowledge Discovery and Data Mining (KDD ’19), August 4–8, 2019, Anchorage, AK, USA. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3292500.3330824 (* means equal contribution) (oral presentation in research track -- 9% acceptance rate)
+
+Jingyuan Wang, Ning Wu, Xinxi Lu, Wayne Xin Zhao, and Kai Feng. 2019.
+Deep Trajectory Recovery with Fine-Grained Calibration using Kalman Filter. Transaction on Knowledge and Data Engineering.
+https://doi.org/10.1109/TKDE.2019.2940950
+
+
+
+Working Experience
+======
+1. Bytedance, Search and Natural Language Processing Group, Intern, 2019.11-2020.1. During my internship, I participated in a chinese word segmentation project. We improve the chinese word segmentation significantly by finetuning a chinese bert and distilling it to a crf.
+2. Microsoft Research Asia, Natural Language Computation Group, Intern, 2020.1-Now. My superivsor is [Nan Duan](https://www.microsoft.com/en-us/research/people/nanduan/) and [Yaobo Liang](https://www.microsoft.com/en-us/research/people/yalia/).  During my internship, I try to improve cross-lingual pretraining model by introducing word alignment of SMT~(Statistic Machine Translation) into crossing-lingual pretraining task. We constructed a new [cross-lingual understanding and generation benchmark](https://microsoft.github.io/XGLUE/), and proposed a state-of-the-art [cross-lingual pretraining model](https://arxiv.org/pdf/2004.01401.pdf). 
 
 Site-wide configuration
 ------
