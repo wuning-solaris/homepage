@@ -16,19 +16,19 @@ Research(Sorted by Time)
 ======
 Key Words: Deep Learning, Recommendation, Natural Language Processing, Spatial Temperal Data Mining, Graph Neural Network.
 
-Ning Wu, Xin Zhao, Jingyuan Wang and Dayan Pan. Learning Effective Road Network Representation with Hierarchical Graph Neural Networks. KDD 2020.(accepted as poster in research track)
+**Ning Wu**, Xin Zhao, Jingyuan Wang and Dayan Pan. Learning Effective Road Network Representation with Hierarchical Graph Neural Networks. KDD 2020.(accepted as poster in research track)
 
-Yaobo Liang, Nan Duan, Yeyun Gong, Ning Wu, Fenfei Guo, Weizhen Qi, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Xiaodong Fan, Bruce Zhang, Rahul Agrawal, Edward Cui, Sining Wei, Taroon Bharti, Ying Qiao, Jiun-Hung Chen, Winnie Wu, Shuguang Liu, Fan Yang, Rangan Majumder, Ming Zho. 2020. XGLUE: A New Benchmark Dataset for Cross-lingual Pre-training, Understanding and Generation. https://arxiv.org/pdf/2004.01401.pdf
+Yaobo Liang, Nan Duan, Yeyun Gong, **Ning Wu**, Fenfei Guo, Weizhen Qi, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Xiaodong Fan, Bruce Zhang, Rahul Agrawal, Edward Cui, Sining Wei, Taroon Bharti, Ying Qiao, Jiun-Hung Chen, Winnie Wu, Shuguang Liu, Fan Yang, Rangan Majumder, Ming Zho. 2020. XGLUE: A New Benchmark Dataset for Cross-lingual Pre-training, Understanding and Generation. https://arxiv.org/pdf/2004.01401.pdf
 
-Ning Wu, Jingyuan Wang, Wayne Xin Zhao, and Yang Jin. 2019. Learning
+**Ning Wu**, Jingyuan Wang, Wayne Xin Zhao, and Yang Jin. 2019. Learning
 to Effectively Estimate the Travel Time for Fastest Route Recommendation. In The 28th ACM International Conference on Information and Knowledge Management (CIKM ’19), November 3–7, 2019, Beijing, China. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3357384.3357907
 
-Jingyuan Wang*, Ning Wu*, Wayne Xin Zhao, and Fanzhang Peng, Xin
+Jingyuan Wang*, **Ning Wu***, Wayne Xin Zhao, and Fanzhang Peng, Xin
 Lin. 2019. Empowering A∗ Search Algorithms with Neural Networks for
 Personalized Route Recommendation. In The 25th ACM SIGKDD Conference
 on Knowledge Discovery and Data Mining (KDD ’19), August 4–8, 2019, Anchorage, AK, USA. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3292500.3330824 (* means equal contribution) (oral presentation in research track -- 9% acceptance rate)
 
-Jingyuan Wang, Ning Wu, Xinxi Lu, Wayne Xin Zhao, and Kai Feng. 2019.
+Jingyuan Wang, **Ning Wu**, Xinxi Lu, Wayne Xin Zhao, and Kai Feng. 2019.
 Deep Trajectory Recovery with Fine-Grained Calibration using Kalman Filter. Transaction on Knowledge and Data Engineering.
 https://doi.org/10.1109/TKDE.2019.2940950
 
@@ -39,13 +39,18 @@ Working Experience
 1. Bytedance, Search and Natural Language Processing Group, Intern, 2019.11-2020.1. During my internship, I participated in a chinese word segmentation project. We improve the chinese word segmentation significantly by finetuning a chinese bert and distilling it to a crf.
 2. Microsoft Research Asia, Natural Language Computation Group, Intern, 2020.1-Now. My superivsor is [Nan Duan](https://www.microsoft.com/en-us/research/people/nanduan/) and [Yaobo Liang](https://www.microsoft.com/en-us/research/people/yalia/).  During my internship, I try to improve cross-lingual pretraining model by introducing word alignment of SMT~(Statistic Machine Translation) into crossing-lingual pretraining task. We constructed a new [cross-lingual understanding and generation benchmark](https://microsoft.github.io/XGLUE/), and proposed a state-of-the-art [cross-lingual pretraining model](https://arxiv.org/pdf/2004.01401.pdf). 
 
-Site-wide configuration
+Rewards
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+1. National Scholarship (5/300), 2019.
+2. LanQiao Cup Programming Contest, Second Prize, 2017.
+3. National Mathematical  Modeling Competition, First Prize, 2016.
 
-Create content & metadata
+Patents
 ------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+1. A Trajectory Recovery Method Based on Deep Learning and Kalman Filter.\\
+2. A Trajectory Denoising Method Based on Bidirectional LSTM and Kalman Filter.\\
+3. A Personalized Route Recommendation Method Based on A* search and Deep Learning.
+
 
 **Markdown generator**
 
