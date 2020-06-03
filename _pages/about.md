@@ -16,7 +16,7 @@ Research(Sorted by Time)
 ======
 Key Words: Deep Learning, Recommendation, Natural Language Processing, Spatial Temperal Data Mining, Graph Neural Network.
 
-**Ning Wu**, Xin Zhao, Jingyuan Wang and Dayan Pan. Learning Effective Road Network Representation with Hierarchical Graph Neural Networks. KDD 2020.(accepted as poster in research track) 
+**Ning Wu**, Xin Zhao, Jingyuan Wang and Dayan Pan. Learning Effective Road Network Representation with Hierarchical Graph Neural Networks. KDD 2020.(accepted as poster in research track)  [Download paper here](https://wuning-solaris.github.io/homepage/files/paper1.pdf)
 
 Yaobo Liang, Nan Duan, Yeyun Gong, **Ning Wu**, Fenfei Guo, Weizhen Qi, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Xiaodong Fan, Bruce Zhang, Rahul Agrawal, Edward Cui, Sining Wei, Taroon Bharti, Ying Qiao, Jiun-Hung Chen, Winnie Wu, Shuguang Liu, Fan Yang, Rangan Majumder, Ming Zho. 2020. XGLUE: A New Benchmark Dataset for Cross-lingual Pre-training, Understanding and Generation. https://arxiv.org/pdf/2004.01401.pdf (first student author)
 
@@ -47,8 +47,9 @@ Rewards
 
 Patents
 ------
-1. A Trajectory Recovery Method Based on Deep Learning and Kalman Filter.\\
-2. A Trajectory Denoising Method Based on Bidirectional LSTM and Kalman Filter.\\
-3. A Personalized Route Recommendation Method Based on A* search and Deep Learning.
+1. A Trajectory Recovery Method Based on Deep Learning and Kalman Filter. 2018
+2. A Trajectory Denoising Method Based on Bidirectional LSTM and Kalman Filter. 2019
+3. A Personalized Route Recommendation Method Based on A* search and Deep Learning. 2019
+
 
 
