@@ -16,21 +16,21 @@ Research(Sorted by Time)
 ======
 Key Words: Deep Learning, Recommendation, Natural Language Processing, Spatial Temperal Data Mining, Graph Neural Network.
 
-**Ning Wu**, Xin Zhao, Jingyuan Wang and Dayan Pan. Learning Effective Road Network Representation with Hierarchical Graph Neural Networks. KDD 2020.(accepted as poster in research track)
+**Ning Wu**, Xin Zhao, Jingyuan Wang and Dayan Pan. Learning Effective Road Network Representation with Hierarchical Graph Neural Networks. KDD 2020.(accepted as poster in research track) 
 
-Yaobo Liang, Nan Duan, Yeyun Gong, **Ning Wu**, Fenfei Guo, Weizhen Qi, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Xiaodong Fan, Bruce Zhang, Rahul Agrawal, Edward Cui, Sining Wei, Taroon Bharti, Ying Qiao, Jiun-Hung Chen, Winnie Wu, Shuguang Liu, Fan Yang, Rangan Majumder, Ming Zho. 2020. XGLUE: A New Benchmark Dataset for Cross-lingual Pre-training, Understanding and Generation. https://arxiv.org/pdf/2004.01401.pdf
+Yaobo Liang, Nan Duan, Yeyun Gong, **Ning Wu**, Fenfei Guo, Weizhen Qi, Ming Gong, Linjun Shou, Daxin Jiang, Guihong Cao, Xiaodong Fan, Bruce Zhang, Rahul Agrawal, Edward Cui, Sining Wei, Taroon Bharti, Ying Qiao, Jiun-Hung Chen, Winnie Wu, Shuguang Liu, Fan Yang, Rangan Majumder, Ming Zho. 2020. XGLUE: A New Benchmark Dataset for Cross-lingual Pre-training, Understanding and Generation. https://arxiv.org/pdf/2004.01401.pdf (first student author)
 
 **Ning Wu**, Jingyuan Wang, Wayne Xin Zhao, and Yang Jin. 2019. Learning
 to Effectively Estimate the Travel Time for Fastest Route Recommendation. In The 28th ACM International Conference on Information and Knowledge Management (CIKM ’19), November 3–7, 2019, Beijing, China. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3357384.3357907
 
-Jingyuan Wang*, **Ning Wu***, Wayne Xin Zhao, and Fanzhang Peng, Xin
+Jingyuan Wang*, **Ning Wu**∗, Wayne Xin Zhao, and Fanzhang Peng, Xin
 Lin. 2019. Empowering A∗ Search Algorithms with Neural Networks for
 Personalized Route Recommendation. In The 25th ACM SIGKDD Conference
-on Knowledge Discovery and Data Mining (KDD ’19), August 4–8, 2019, Anchorage, AK, USA. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3292500.3330824 (* means equal contribution) (oral presentation in research track -- 9% acceptance rate)
+on Knowledge Discovery and Data Mining (KDD ’19), August 4–8, 2019, Anchorage, AK, USA. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3292500.3330824 (∗ means equal contribution) (oral presentation in research track -- 9% acceptance rate) (first student author)
 
 Jingyuan Wang, **Ning Wu**, Xinxi Lu, Wayne Xin Zhao, and Kai Feng. 2019.
 Deep Trajectory Recovery with Fine-Grained Calibration using Kalman Filter. Transaction on Knowledge and Data Engineering.
-https://doi.org/10.1109/TKDE.2019.2940950
+https://doi.org/10.1109/TKDE.2019.2940950 (first student author)
 
 
 
