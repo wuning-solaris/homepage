@@ -17,20 +17,20 @@ Research Interests
 
 I'm interested in Data Mining and Natural Languagle Processing and I have got several papers on these fields published. I have got a lot of experience on deep learning such as Recurent Neural Network(LSTM, GRU), Graph Neural Network, Transformers(Bert), etc. Also, I have a solid foundation on math and traditional computer science knowledge, which is the origin of my most ideas, such as the combination between A* algorithm and neural network and the combination between SMT(Statistic Machine Translation) and cross lingual pretraining(This paper is ongoing).
 
-Published Paper(Sorted by Time)
+Published Paper
 ======
 **Key Words**: Deep Learning, Recommendation System, Natural Language Processing, Graph Neural Network, Spatial Temperal Data Mining.
 
-**Ning Wu**, Xin Zhao, Jingyuan Wang and Dayan Pan. Learning Effective Road Network Representation with Hierarchical Graph Neural Networks. In The 26th ACM SIGKDD Conference on **Knowledge Discovery and Data Mining** (KDD ’20).(accepted as poster in research track -- 17% acceptance rate)  [Paper](https://wuning-solaris.github.io/homepage/files/paper1.pdf)
+**Ning Wu**, Xin Zhao, Jingyuan Wang and Dayan Pan. Learning Effective Road Network Representation with Hierarchical Graph Neural Networks. In The 26th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (**KDD** ’20).(accepted as poster in research track -- 17% acceptance rate)  [Paper](https://wuning-solaris.github.io/homepage/files/paper1.pdf)
 
 
 **Ning Wu**, Jingyuan Wang, Wayne Xin Zhao, and Yang Jin. 2019. Learning
-to Effectively Estimate the Travel Time for Fastest Route Recommendation. In The 28th ACM **International Conference on Information and Knowledge Management** (CIKM ’19), November 3–7, 2019, Beijing, China. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3357384.3357907 [Paper](https://wuning-solaris.github.io/homepage/files/paper3.pdf) [Slide](https://wuning-solaris.github.io/homepage/files/slide1.pptx)
+to Effectively Estimate the Travel Time for Fastest Route Recommendation. In The 28th ACM International Conference on Information and Knowledge Management (**CIKM** ’19), November 3–7, 2019, Beijing, China. ACM, New York, NY, USA, 10 pages. https://doi.org/10.1145/3357384.3357907 [Paper](https://wuning-solaris.github.io/homepage/files/paper3.pdf) [Slide](https://wuning-solaris.github.io/homepage/files/slide1.pptx)
 
 Jingyuan Wang*, **Ning Wu**∗, Wayne Xin Zhao, and Fanzhang Peng, Xin
 Lin. 2019. Empowering A∗ Search Algorithms with Neural Networks for
 Personalized Route Recommendation. In The 25th ACM SIGKDD Conference
-on **Knowledge Discovery and Data Mining** (KDD ’19), August 4–8, 2019, Anchorage, AK, USA. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3292500.3330824 (∗ means equal contribution) (oral presentation in research track -- 9% acceptance rate) (first student author) [Paper](https://wuning-solaris.github.io/homepage/files/paper4.pdf) [Slide](https://wuning-solaris.github.io/homepage/files/slide2.pptx)
+on Knowledge Discovery and Data Mining (**KDD** ’19), August 4–8, 2019, Anchorage, AK, USA. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3292500.3330824 (∗ means equal contribution) (oral presentation in research track -- 9% acceptance rate) (first student author) [Paper](https://wuning-solaris.github.io/homepage/files/paper4.pdf) [Slide](https://wuning-solaris.github.io/homepage/files/slide2.pptx)
 
 Jingyuan Wang, **Ning Wu**, Xinxi Lu, Wayne Xin Zhao, and Kai Feng. 2019.
 Deep Trajectory Recovery with Fine-Grained Calibration using Kalman Filter. **Transaction on Knowledge and Data Engineering**.
